@@ -1,0 +1,19 @@
+{
+  "name": "edabit-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbtrejo/edabit-solutions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lbtrejo/edabit-solutions/issues"
+  },
+  "homepage": "https://github.com/lbtrejo/edabit-solutions#readme"
+}
